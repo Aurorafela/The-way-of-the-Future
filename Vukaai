@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vuka.ai - Awaken Your Business Potential</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="container">
+            <h1>Vuka.ai: Empowering Business Intelligence</h1>
+            <p>Transforming Data into Decisive Action</p>
+            <a href="#contact" class="btn">Get Started</a>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section class="about">
+        <div class="container">
+            <h2>What is Vuka.ai?</h2>
+            <p>Vuka.ai is your AI-powered business partner, optimizing automation, predictive insights, and customer engagement to drive success.</p>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2>Our Key Solutions</h2>
+            <div class="feature-grid">
+                <div class="feature">
+                    <h3>Intelligent Automation</h3>
+                    <p>Optimize business processes with adaptive AI-driven workflows.</p>
+                </div>
+                <div class="feature">
+                    <h3>Predictive Insights</h3>
+                    <p>Use AI-powered analytics to anticipate market trends.</p>
+                </div>
+                <div class="feature">
+                    <h3>Customer Engagement</h3>
+                    <p>Deliver personalized, AI-enhanced interactions that foster growth.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="cta">
+        <div class="container">
+            <h2>Ready to Transform Your Business?</h2>
+            <a href="#contact" class="btn">Book a Free Consultation</a>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <footer class="contact" id="contact">
+        <div class="container">
+            <h2>Get in Touch</h2>
+            <p>Website: <a href="https://www.vukaai.co.za">www.vukaai.co.za</a></p>
+            <p>Email: <a href="mailto:info@vukaai.co.za">info@vukaai.co.za</a></p>
+            <p>Phone: ‪+27 73 460 5434‬</p>
+        </div>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vuka.ai - AI-Powered Business Intelligence</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="container">
+            <h1>Vuka.ai</h1>
+            <p>Awaken Your Business Potential with AI Intelligence</p>
+            <a href="#contact" class="btn">Get Started</a>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section class="about">
+        <div class="container">
+            <h2>Why Vuka.ai?</h2>
+            <p>Vuka.ai revolutionizes business intelligence with AI-driven automation, predictive analytics, and customer engagement tools.</p>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2>Key Solutions</h2>
+            <div class="feature-grid">
+                <div class="feature">
+                    <h3>Smart Automation</h3>
+                    <p>Streamline operations with AI-driven process optimization.</p>
+                </div>
+                <div class="feature">
+                    <h3>Predictive Intelligence</h3>
+                    <p>Leverage AI analytics for real-time market insights.</p>
+                </div>
+                <div class="feature">
+                    <h3>Customer Personalization</h3>
+                    <p>Create meaningful AI-powered interactions that drive engagement.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="cta">
+        <div class="container">
+            <h2>Transform Your Business with AI</h2>
+            <a href="#contact" class="btn">Book a Free Consultation</a>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <footer class="contact" id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Website: <a href="https://www.vukaai.co.za">www.vuka
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(135deg, #1a1a1a, #333);
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #ff5733;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    background-color: #e04e2f;
+}
+
+/* Sections */
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 50px 0;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+/* Features Grid */
+.feature-grid {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.feature {
+    background: white;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.feature h3 {
+    color: #ff5733;
+}
+
+/* Call to Action */
+.cta {
+    background: #ff5733;
+    color: white;
+    padding: 60px 20px;
+}
+
+.cta .btn {
+    background: white;
+    color: #ff5733;
+}
+
+.cta .btn:hover {
+    background: #e04e2f;
+    color: white;
+}
+
+/* Footer */
+.contact {
+    background: #222;
+    color: white;
+    padding: 50px 20px;
+}
+
+.contact a {
+    color: #ff5733;
+    text-decoration: none;
+}
+
+.contact a:hover {
+    color: white;
+}
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #333;
+}
+
+/* Image Container */
+.image-container {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.image-container img {
+    width: 80%;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease-in-out;
+}
+
+.image-container img:hover {
+    transform: scale(1.05);
+}
+
+/* Caption Styling */
+.caption {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color: #555;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .image-container img {
+        width: 90%;
+    }
+
+    .caption {
+        font-size: 1rem;
+    }
+}
